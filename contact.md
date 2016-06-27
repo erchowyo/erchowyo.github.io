@@ -22,12 +22,16 @@ Address
 
 
 CEREMADE, Université Paris-Dauphine, Place du Maréchal De Lattre De Tassigny, 75775 Paris Cedex 16, FRANCE.
-
-<iframe src="/baidumap.html"
-width="600"
-height="350"
-frameborder="0"
-style="border:0"></iframe>
+<iframe
+    width="600"
+    height="450"
+    frameborder="0" style="border:0"
+    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCPDq0oKtTzAZa-Ilqp38KVkL2otVNyJWQ
+      &q=Butchart+Gardens+Victoria+BC
+      &attribution_source=Google+Maps+Embed+API
+      &attribution_web_url=http://www.butchartgardens.com/
+      &attribution_ios_deep_link_id=comgooglemaps://?daddr=Butchart+Gardens+Victoria+BC" allowfullscreen>
+  </iframe>
 
 <iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 
