@@ -29,6 +29,12 @@ height="350"
 frameborder="0"
 style="border:0"></iframe>
 
+<iframe src="http://www.youtube.com/embed/4aQwT3n2c1Q" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+
+<iframe src="https://www.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=60aqhusbghf7v0qvvbfu1ml22k%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
 Phone
 ---------------
 
