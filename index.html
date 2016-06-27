@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Welcome"
-description: "Homepage of Yeechong Yeung"
-header-img: "img/guet_school_proc.jpg"<!-- 这是主页图片 -->
+description: "Homepage of Gabriel Peyré"
+header-img: "img/paysages-paris.jpg"
 ---
 
 
@@ -24,17 +24,17 @@ header-img: "img/guet_school_proc.jpg"<!-- 这是主页图片 -->
 {% endfor %}
 
 
-<!-- Pager 换页分页-->
+<!-- Pager -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; 下一页</a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
     </li>
     {% endif %}
     {% if paginator.next_page %}
     <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">上一页 &rarr;</a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
     </li>
     {% endif %}
 </ul>
